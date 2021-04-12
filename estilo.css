@@ -33,6 +33,23 @@ aside {
     padding: 10px;
 }
 
+a {
+    float: left;
+    padding: 10px;
+}
+
+.circulo {
+    background: red;
+    border-radius: 50px;
+    float: left;
+    width: 70px;
+    height: 70px;
+}
+
+.info {
+    float: right
+}
+
 footer {
     text-align: center;
     height: 50px;
